@@ -24,7 +24,7 @@ class Character {
     }
 
 
-// Create two Person objects
+// Create three Person objects
 var sayMyName = new Person("Jessica";
 var sayAge = new Person("Standage");
 var sayFavoriteSong = new Person("21");
